@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Here's some inspiration
 
 You can use the [editor on GitHub](https://github.com/vvin44/what/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
